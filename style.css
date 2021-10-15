@@ -424,11 +424,15 @@ h1 {
     font-size: 3.5em;
 }
 .swal-overlay {
-    background-color: rgba(218, 57, 177, 0.45);
+    background-color: rgba(235, 90, 198, 0.45);
+}
+
+.swal-title {
+   color:rgb(245, 39, 235);
 }
 
 .swal-text {
-    font-size: 20px;
+    font-size: 25px;
     font-weight: 200;
     word-spacing: 5px;
 }
